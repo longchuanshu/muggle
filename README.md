@@ -23,3 +23,18 @@ hello github!
 	git pull origin master
 
 7.最后，上传代码到远程github仓库中
+
+
+low-rank bilinear pooling for fine-grained classification
+
+mining discriminative triplets of patches for fine-grained classification
+
+mask-cnn
+
+spda-cnn
+
+attention for fine-grained categorization
+
+fine-grained recognition as hsnet search for information image parts
+
+bilinear cnn models for fine-grained visual recognition
